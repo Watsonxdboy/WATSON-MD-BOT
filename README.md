@@ -15,8 +15,8 @@
 <p align="center">
 <a href="https://github.com/watsonxdboy"><img title="Author" src="https://img.shields.io/badge/watsonxdboy-orange?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@WATSON_TECH"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263781330745"><img title="Author" src="https://img.shields.io/badge/Contact Me-orange?style=for-the-badge&logo=whatsapp"></a>
 <p/>                                                                                                                                                    <p align="center">
-<a href="https://github.com/watsonxdboy/followers"><img title="Followers" src="https://img.shields.io/github/followers/watsonxdboy?color=red&style=flat-square"></a>
-<a href="https://github.com/watsonxdboy/WATSON-MD-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/watsonxdboy/WATSON-MD-BOT?color=pink&style=flat-square"></a>
+<a href="https://github.com/wa/followers"><img title="Followers" src="https://img.shields.io/github/followers/wboy?color=red&style=flat-square"></a>
+<a href="https://github.com/wy/WATSON-MD-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/watsonxdboy/WATSON-MD-BOT?color=pink&style=flat-square"></a>
 <a href="https://github.com/watsonxdboy/WATSON-MD-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/watsonxdboy/WATSON-MD-BOT?color=purple&style=flat-square"></a>
 <a href="https://github.com/watsonxdboy/WATSON-MD-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/watsonxdboy/WATSON-MD-BOT?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/watsonxdboy/WATSON-MD-BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/watsonxdboy/WATSON-MD-BOT?style=flat-square&color=green"></a>
